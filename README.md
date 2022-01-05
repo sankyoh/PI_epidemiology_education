@@ -4,5 +4,5 @@ This work is the analytical source code and raw data for a study that examined t
 This is a Stata do-file that converts the raw data into an analyzable form for analysis.
 ## Dataset.csv
 This is the raw data of the study. Personal information is excluded.
-## Codebool.xlsx
+## Codebook.xlsx
 This is the Codebook for the raw data.
