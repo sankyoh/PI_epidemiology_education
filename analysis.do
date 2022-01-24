@@ -16,7 +16,7 @@ rename sex sex_txt
 gen     sex=0 if sex_txt=="female"
 replace sex=1 if sex_txt=="male"
 label define sex 0 "female" 1 "male"
-label values sex sex_txt
+label values sex sex
 drop sex_txt
 order id sex 
 
